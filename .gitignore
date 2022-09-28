@@ -1,0 +1,9 @@
+./node_modules
+node_modules
+npm-debug.log
+npm-debug.log.0
+/tmp
+/tmp/*
+.DS_Store
+.DS_Store?
+.env
